@@ -5,3 +5,7 @@
 </div>
 
 [![An image of @zyg28201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zyg28201)](https://holopin.io/@zyg28201)
+
+<div align="center">
+  <img align="center" class="img" src="https://komarev.com/ghpvc/?username=zyg28201&color=brightgreen&label=Profile+Visits" />
+</div>
