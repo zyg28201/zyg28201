@@ -9,3 +9,9 @@
 <div align="center">
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=zyg28201&color=brightgreen&label=Profile+Visits" />
 </div>
+
+### 🗺️ PLANS & GOALS
+- 🐉 Continue to further develop my React & NextJS skills
+- 🚀 Expand my horizons. Improve my skills in less used technologies: MongoDB, Vue, Svelte, and Angular
+- 🏗️ Build more Frontend & Full-Stack projects
+- 🧪 Experiment with new libraries & tools
